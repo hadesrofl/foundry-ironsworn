@@ -195,11 +195,16 @@ export namespace FontAwesome {
 		 * Set Font Awesome icon family
 		 */
 		'fa-style-family':
-			| 'Font Awesome 6 Free'
-			| 'Font Awesome 6 Pro'
-			| 'Font Awesome 6 Duotone'
-			| 'Font Awesome 6 Brands'
-			| 'Font Awesome 6 Sharp'
+		| 'Font Awesome 6 Free'
+		| 'Font Awesome 6 Pro'
+		| 'Font Awesome 6 Duotone'
+		| 'Font Awesome 6 Brands'
+		| 'Font Awesome 6 Sharp'
+		| 'Font Awesome 7 Free'
+		| 'Font Awesome 7 Pro'
+		| 'Font Awesome 7 Duotone'
+		| 'Font Awesome 7 Brands'
+		| 'Font Awesome 7 Sharp'
 		// Set Font Awesome icon style 	Any valid Font Awesome style weight
 		'fa-style': 900 | 400 | 100 | 300
 		/**
