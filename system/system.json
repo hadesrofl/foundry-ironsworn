@@ -5,8 +5,8 @@
   "license": "LICENSE.txt",
   "version": "1.26.0",
   "url": "https://github.com/ben/foundry-ironsworn",
-  "manifest": "https://github.com/ben/foundry-ironsworn/releases/latest/download/system.json",
-  "download": "https://github.com/ben/foundry-ironsworn/releases/download/1.26.0/ironsworn.zip",
+  "manifest": "https://github.com/hadesrofl/foundry-ironsworn/releases/latest/download/system.json",
+  "download": "https://github.com/hadesrofl/foundry-ironsworn/releases/download/1.26.0/ironsworn.zip",
   "compatibility": {
     "minimum": 13,
     "verified": 14
